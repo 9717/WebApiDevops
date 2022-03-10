@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using WebapiDevops.Models;
 
 
-namespace WebApplication19.Controllers
+namespace WebapiDevops.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
